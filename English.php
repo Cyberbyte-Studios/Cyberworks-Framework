@@ -178,6 +178,7 @@ $lang['steamlogin'] = 'Allow login with steam';
 $lang['useNews'] = 'Use CyberByte News Feed';
 $lang['panel'] = 'Panel';
 $lang['useVAC'] = 'Check VAC Bans';
+$lang['useCommunityBans'] = 'Check Community Bans';
 $lang['itemsPP'] = 'Items Per Page';
 $lang['settings'] = 'Settings';
 $lang['allowLang'] = 'Allow other languages';
